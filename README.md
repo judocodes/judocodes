@@ -5,6 +5,11 @@ Right now, I am focused on deepening my skills and learning about Web Accessibil
 [![Judocodes' GitHub Stats](https://github-readme-stats.vercel.app/api?username=judocodes&show_icons=true&title_color=4A5568&text_color=4A5568&bg_color=ffffff&icon_color=68D391)](https://github.com/anuraghazra/github-readme-stats)
 [![Judocodes' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=judocodes&show_icons=true&title_color=4A5568&text_color=4A5568&bg_color=ffffff&icon_color=68D391)](https://github.com/anuraghazra/github-readme-stats)
 
+### I am currently open for working on meaningful projects.
+
+
+
+
 
 
 <!--
