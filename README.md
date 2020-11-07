@@ -1,5 +1,5 @@
 ![welcome-banner](./GitHub-Banner.png)
-## Welcome to my GitHub Profile! My name is Jules.
+## Welcome to my GitHub Profile!
 I am a Web Developer that uses Frontend technologies such as React or Vue to create modern, stable and user-friendly websites. 
 On the Backend, I employ Node, Express, MongoDB or SQL Databases to provide clients with the ability to scale. 
 Right now, I am focused on deepening my skills and learning about Web Accessibility, TypeScript, Design Systems(BEM, SMACSS) and diving into Serverless Technologies(AWS, Firebase) by creating and improving applications every day. 
