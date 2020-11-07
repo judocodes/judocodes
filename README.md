@@ -5,6 +5,12 @@ Right now, I am focused on deepening my skills and learning about Web Accessibil
 
 <br/>
 
+## My Tech Stack
+My preferred way of working is with the MERN stack. Individually listed, I have experience with:
+Git, JavaScript (pre ES5 to ESNext), HTML, CSS, SASS, TailwindCSS, ReactJS, Redux, VueJS, NodeJS, Express, mongoDB, SQL, RestApis, AWS
+
+<br />
+
 ### I am currently open for working on creative and meaningful projects. Maybe we can work together!
 
 <br/>
