@@ -4,7 +4,7 @@ On the Backend, I employ Node, Express, MongoDB or SQL Databases to provide clie
 Right now, I am focused on deepening my skills and learning about Web Accessibility, TypeScript, Design Systems(BEM, SMACSS) and diving into Serverless Technologies(AWS, Firebase) by creating and improving applications every day. 
 
 ## About Me
-I studied Bass Guitar at the ArtEZ Conservatory in the Netherlands. Since 2015, I had the opportunity to gather many experiences as a professional musician - it basically feels like being on a road trip with your friends all year. I have, however, kept an eye on coding and web development for a long time. The possibility to realize every idea into an application excites me. The pandemic provided me with the time to immerse myself in development, and a couple of months later, I'm getting more passionate about it every day! 
+I studied Bass Guitar at the ArtEZ Conservatory in the Netherlands. Since 2015, I had the opportunity to gather many experiences as a professional musician - it basically feels like being on a road trip with your friends all year. I have, however, kept an eye on coding and web development for a long time. The possibility to convert every idea into an application excites me. The pandemic provided me with the time to immerse myself in development, and a couple of months later, I'm getting more passionate about it every day! 
 
 ## My Tech Stack
 My preferred way of working is with the MERN stack. Individually listed, I have experience with:
