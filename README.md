@@ -2,7 +2,7 @@
 I am a Web Developer that uses Frontend technologies such as React or Vue to create modern, stable and user-friendly websites. On the Backend, I employ Node, Express, MongoDB or SQL Databases to provide clients with the ability to scale. 
 Right now, I am focused on deepening my skills and learning about Web Accessibility, TypeScript, Design Systems(BEM, SMACSS) and diving into Serverless Technologies(AWS, Firebase) by creating and improving applications every day. 
 
-[![Judocodes's github stats](https://github-readme-stats.vercel.app/api?username=judocodes&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Judocodes's github stats](https://github-readme-stats.vercel.app/api?username=judocodes&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
