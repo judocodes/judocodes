@@ -1,7 +1,9 @@
-### Welcome to my GitHub Profile!
+## Welcome to my GitHub Profile!
 I am a Web Developer that uses Frontend technologies such as React or Vue to create modern, stable and user-friendly websites. 
 On the Backend, I employ Node, Express, MongoDB or SQL Databases to provide clients with the ability to scale. 
 Right now, I am focused on deepening my skills and learning about Web Accessibility, TypeScript, Design Systems(BEM, SMACSS) and diving into Serverless Technologies(AWS, Firebase) by creating and improving applications every day. 
+
+<br/>
 
 ### I am currently open for working on creative and meaningful projects. Maybe we can work together!
 
